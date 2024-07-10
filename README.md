@@ -13,7 +13,9 @@ cd phishing_website_detection
 Install the dependencies:
 
 pip install -r requirements.txt
+
 Usage
+
 Run the Streamlit app:
 
 streamlit run app.py
